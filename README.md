@@ -2,4 +2,4 @@
 
 ## linux
 
-1. [Centos7.6 Installing MySQL8](https://github.com/DiysLab/notes/blob/main/centos7.6-mysql8.md) 
+1. [Installing MySQL 8 on CentOS 7.6](https://github.com/DiysLab/notes/blob/main/centos7.6-mysql8.md) 
